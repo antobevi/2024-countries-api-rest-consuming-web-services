@@ -41,7 +41,7 @@
 			<version>1.18.30</version>
 			<scope>provided</scope>
 		</dependency>
-		<dependency><!--Llamadas a apis asincronas-->
+		<dependency><!--Llamadas a apis asincronas (webclient)-->
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>

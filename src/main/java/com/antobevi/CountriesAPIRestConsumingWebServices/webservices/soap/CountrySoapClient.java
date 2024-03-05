@@ -1,4 +1,4 @@
-package com.antobevi.CountriesAPIRestConsumingWebServices.webservices;
+package com.antobevi.CountriesAPIRestConsumingWebServices.webservices.soap;
 
 import localhost.ws.ObtenerPaisRequest;
 import localhost.ws.ObtenerPaisResponse;

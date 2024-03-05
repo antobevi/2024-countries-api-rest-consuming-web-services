@@ -1,5 +1,6 @@
-package com.antobevi.CountriesAPIRestConsumingWebServices.webservices;
+package com.antobevi.CountriesAPIRestConsumingWebServices.webservices.soap;
 
+import com.antobevi.CountriesAPIRestConsumingWebServices.webservices.soap.CountrySoapClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.oxm.jaxb.Jaxb2Marshaller;
