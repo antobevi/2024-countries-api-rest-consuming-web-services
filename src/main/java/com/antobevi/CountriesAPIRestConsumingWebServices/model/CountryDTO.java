@@ -19,6 +19,4 @@ public class CountryDTO { // DTO: data transfer object
     private Map<String, String> languages;
     private Map<String, String> maps; // por ejemplo, Google Maps
 
-    //
-
 }
