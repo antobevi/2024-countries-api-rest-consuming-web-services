@@ -14,7 +14,7 @@ public class CountryDTO { // DTO: data transfer object
     private String name;
     private String capital;
     private Moneda currency;
-    private int populationDensity;
+    private Integer populationDensity;
     private String flag;
     private Map<String, String> languages;
     private Map<String, String> maps; // por ejemplo, Google Maps
