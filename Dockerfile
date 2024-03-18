@@ -13,7 +13,7 @@ RUN ./mvnw clean package -DskipTests
 
 FROM openjdk:17-jdk-slim
 
-EXPOSE 8081
+EXPOSE 8080
 
 COPY --from=build target/*.jar demo.jar
 
